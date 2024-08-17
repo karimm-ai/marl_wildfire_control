@@ -9,3 +9,4 @@ Project Details:
     1. Total number of trees suppressed.
     2. Total number of trees suppressed by both classes of agents in heterogenous scenarios.
     3. Total rewards accumulated.
+  - Used Pygame for visualizing the fire spread and agents' actions during the training process.
